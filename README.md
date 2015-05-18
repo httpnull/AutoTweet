@@ -1,4 +1,4 @@
 # AutoTweet
-一分おきにツイートします。
+The tweet in one-minute intervals.
 
-ライブラリはTwistOAuthを使用します。
+The library uses the TwistOAuth.
